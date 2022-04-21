@@ -8,8 +8,10 @@ date: 2021-04-01
 location: "Los Angeles, CA"
 ---
 
+Term II focused on advanced fluid mechanics topics, such as applications of Stokes flow to Brownian motion, electrophoresis, and boundary layers in two-dimensional domains.
 
-### Syllabus
+Syllabus
+---
 
 The foundations of heat, mass, and momentum transfer for single and multiphase fluids will be developed.
 Governing differential equations; laminar flow of incompressible fluids at low and high Reynolds numbers; forced and free convective heat and mass transfer, diffusion, and dispersion.

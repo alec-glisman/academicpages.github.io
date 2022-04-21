@@ -8,8 +8,10 @@ date: 2021-01-01
 location: "Los Angeles, CA"
 ---
 
+Term I focused on the application of perturbation theory to the analysis of thermal and concentration boundary layers.
 
-### Syllabus
+Syllabus
+---
 
 The foundations of heat, mass, and momentum transfer for single and multiphase fluids will be developed.
 Governing differential equations; laminar flow of incompressible fluids at low and high Reynolds numbers; forced and free convective heat and mass transfer, diffusion, and dispersion.
