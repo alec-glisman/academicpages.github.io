@@ -5,7 +5,7 @@ permalink: /publication/2020-scriven-love-1
 excerpt: 'The in-plane viscosity and out-of-plane elasticity of lipid membranes leads to a new dimensionless number found to be critical to relaxation dynamics'
 date: 2020-05-04
 venue: 'Physical Review E'
-paperurl: 'http://alec-glisman.github.io/files/PhysRevE.101.052401.pdf'
+paperurl: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.052401'
 citation: 'Amaresh Sahu, Alec Glisman, Joël Tchoufag and Kranthi K. Mandadapu. (2020). &quot;Geometry and dynamics of lipid membranes: The Scriven-Love number.&quot; <i>Phys. Rev. E</i>. 101(05240).'
 ---
 
@@ -14,4 +14,3 @@ The equations governing lipid membrane dynamics in planar, spherical, and cylind
 [Download paper here](http://alec-glisman.github.io/files/PhysRevE.101.052401.pdf)
 
 Recommended citation: Amaresh Sahu, <b>Alec Glisman</b>, Joël Tchoufag and Kranthi K. Mandadapu. (2020). "Geometry and dynamics of lipid membranes: The Scriven-Love number." <i>Phys. Rev. E</i>. 101(05240).
-
