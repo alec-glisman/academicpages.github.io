@@ -16,7 +16,7 @@ The equations governing lipid membrane dynamics in planar, spherical, and cylind
 
 [Download paper here](http://alec-glisman.github.io/files/PhysRevE.101.052401.pdf)
 
-Recommended citation: Amaresh Sahu, <b>Alec Glisman</b>, Joël Tchoufag and Kranthi K. Mandadapu. (2020). "Geometry and dynamics of lipid membranes: The Scriven-Love number." <i>Phys. Rev. E</i>. 101(05240).
+Recommended citation: Amaresh Sahu, Alec Glisman, Joël Tchoufag and Kranthi K. Mandadapu. (2020). "Geometry and dynamics of lipid membranes: The Scriven-Love number." Phys. Rev. E. 101(05240).
 
 Figure 1
 ---
