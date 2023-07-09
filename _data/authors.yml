@@ -1,18 +1,7 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
+Me:
+  name        : "Alec Glisman"
   uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  email       : "alec.glisman@gmail.com"
+  bio         : "I am a Ph.D. candidate in the department of chemical engineering at the California Institute of Technology. My research focuses on the molecular simulation of aqueous polyelectrolyte complexes."
