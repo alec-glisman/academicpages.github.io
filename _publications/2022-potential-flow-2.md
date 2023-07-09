@@ -3,7 +3,7 @@ title: "Swimming in potential flow"
 collection: publications
 permalink: /publication/2022-potential-flow-2
 excerpt: 'The in-plane viscosity and out-of-plane elasticity of lipid membranes leads to a new dimensionless number found to be critical to relaxation dynamics'
-date: 2020-12-01
+date: 2022-12-01
 venue: 'JFM Rapids'
 paperurl: 'https://doi.org/10.1017/jfm.2022.946'
 citation: 'Alec Glisman and John F. Brady (2022). &quot;Swimming in potential flow.&quot; <i>JFM</i>. 952(R5).'
