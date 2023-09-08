@@ -80,13 +80,13 @@ analytics:
 author:
   name: "Alec Glisman"
   avatar: "profile.png"
-  bio: "I am a fifth-year chemical engineering Ph.D. candidate at Caltech in the Wang group."
+  bio: "I am a fifth-year chemical engineering Ph.D. candidate at Caltech in the Zhen-Gang Wang group.
   location: "Los Angeles, CA"
   employer: "Caltech"
   pubmed:
   googlescholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=wGifpRQAAAAJ"
   email:
-  researchgate: "https://www.researchgate.net/profile/Alec-Glisman"
+  researchgate:
   uri:
   bitbucket:
   codepen:
